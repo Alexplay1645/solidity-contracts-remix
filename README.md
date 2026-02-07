@@ -23,8 +23,7 @@ Solidity ^0.8.20
 
 Открыть Remix
 
-Загрузить Contracts.sol
-
+Загрузить first_contract.sol
 Скомпилировать
 
 Deploy в Remix VM
